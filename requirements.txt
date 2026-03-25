@@ -1,0 +1,7 @@
+pypdf
+pinecone
+python-dotenv
+groq
+sentence-transformers
+fastapi
+uvicorn[standard]
